@@ -9,7 +9,7 @@
    
    
 ### Live Demo  
- [navbar](https://github.com/Laguna1/navbar-youtube)
+ [navbar](https://laguna1.github.io/navbar-youtube/)
 
 ## BUILT WITH
 *  HTML
