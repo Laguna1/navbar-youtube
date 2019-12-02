@@ -9,7 +9,7 @@
    
    
 ### Live Demo  
- [navbar](https://laguna1.github.io/Test-Yiutube-with-live-vers/)
+ [navbar](https://github.com/Laguna1/navbar-youtube)
 
 ## BUILT WITH
 *  HTML
